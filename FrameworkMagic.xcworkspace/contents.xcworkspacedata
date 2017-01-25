@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TestOne/TestOne.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TestTwo/TestTwo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TestFacade/TestFacade.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FrameworkMagic/FrameworkMagic.xcodeproj">
+   </FileRef>
+</Workspace>
